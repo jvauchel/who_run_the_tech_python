@@ -1,0 +1,11 @@
+[project]
+name = "who_run_the_tech"
+version = "1.0.0"
+description = "discover Python, the bad, the good and the evil"
+requires-python = ">=3.9"
+keywords = ["python"]
+authors = [
+    {name = "Berengere MATHIEU", email = "b.mathieu@groupeonepoint.com"},
+]
+dependencies = [
+]

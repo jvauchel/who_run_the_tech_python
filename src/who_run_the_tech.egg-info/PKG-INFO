@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: who-run-the-tech
+Version: 1.0.0
+Summary: discover Python, the bad, the good and the evil
+Author-email: Berengere MATHIEU <b.mathieu@groupeonepoint.com>
+Keywords: python
+Requires-Python: >=3.9

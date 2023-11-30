@@ -1,0 +1,7 @@
+build
+pylint
+black
+isort
+pytest
+pytest-cov
+tox

@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/who_run_the_tech/__init__.py
+src/who_run_the_tech.egg-info/PKG-INFO
+src/who_run_the_tech.egg-info/SOURCES.txt
+src/who_run_the_tech.egg-info/dependency_links.txt
+src/who_run_the_tech.egg-info/top_level.txt
+src/who_run_the_tech/brutto/__init__.py
+src/who_run_the_tech/brutto/exercice_4.py
+src/who_run_the_tech/buono/__init__.py
+src/who_run_the_tech/buono/exercice_3.py
+src/who_run_the_tech/cattivo/__init__.py
+src/who_run_the_tech/cattivo/exercice_5.py
+src/who_run_the_tech/cattivo/exercice_6.py

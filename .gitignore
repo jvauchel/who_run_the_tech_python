@@ -1,0 +1,10 @@
+*.png
+*.jpg
+.venv/*
+config.json
+data/*
+build/*
+build/*/*
+build/*/*/*
+*.pyc
+src/roger_ai.egg-info/*
