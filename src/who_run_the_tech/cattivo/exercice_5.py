@@ -19,6 +19,7 @@ def set_language_name(new_language_name: str):
     to understand global variables
     :param new_language_name: a function parameter
     """
+    global DEFAULT_LANGUAGE_NAME
     DEFAULT_LANGUAGE_NAME = new_language_name
     print(f"langage par défault : {DEFAULT_LANGUAGE_NAME}")
     print(f"je programme en : {new_language_name}")
